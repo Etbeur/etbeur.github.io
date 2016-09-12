@@ -1,5 +1,5 @@
 #Ma/My github page
-[etbeur page](htpp://etbeur.github.io)
+[Etbeur's page](htpps://etbeur.github.io)
 
 
 Vous trouverez ici ma page Github avec différents projets que j'ai effectué depuis que j'apprend à programmer.
