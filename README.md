@@ -1,4 +1,4 @@
-#Ma/My github page
+#My github page
 
 [Etbeur's page](htpps://etbeur.github.io)
 
